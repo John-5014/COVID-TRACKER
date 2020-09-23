@@ -22,7 +22,7 @@ const Cards = ({data: { confirmed, recovered, deaths, lastUpdate}}) => {
                     start={0}
                     end={confirmed.value}
                     duration={2.5}
-                    separat= ',' />
+                    separat= ',' />     
 
                     
                     </Typography>
